@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/App.css";
 const App = () => {
   return (
-<div id="main">
+   <div id="main">
     <section class="card-section">
       <div class="container">
         <div class="community">
